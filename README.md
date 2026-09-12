@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Shiba-rana/leetcode_sol/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/Shiba-rana/leetcode_sol/tree/master/0036-valid-sudoku) |
 ## Hash Table
 |  |
@@ -21,4 +22,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Shiba-rana/leetcode_sol/tree/master/0036-valid-sudoku) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Shiba-rana/leetcode_sol/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
