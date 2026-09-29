@@ -9,9 +9,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Shiba-rana/leetcode_sol/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0031-next-permutation](https://github.com/Shiba-rana/leetcode_sol/tree/master/0031-next-permutation) |
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Shiba-rana/leetcode_sol/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Shiba-rana/leetcode_sol/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/Shiba-rana/leetcode_sol/tree/master/0036-valid-sudoku) |
 ## Hash Table
