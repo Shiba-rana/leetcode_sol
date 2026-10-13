@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Shiba-rana/leetcode_sol/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Shiba-rana/leetcode_sol/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/Shiba-rana/leetcode_sol/tree/master/0036-valid-sudoku) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Shiba-rana/leetcode_sol/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Hash Table
 |  |
 | ------- |
@@ -43,4 +44,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shiba-rana/leetcode_sol/tree/master/0020-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Shiba-rana/leetcode_sol/tree/master/1021-remove-outermost-parentheses) |
+## Greedy
+|  |
+| ------- |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Shiba-rana/leetcode_sol/tree/master/3727-maximum-alternating-sum-of-squares) |
+## Sorting
+|  |
+| ------- |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Shiba-rana/leetcode_sol/tree/master/3727-maximum-alternating-sum-of-squares) |
 <!---LeetCode Topics End-->
