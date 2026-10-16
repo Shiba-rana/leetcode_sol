@@ -52,4 +52,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Shiba-rana/leetcode_sol/tree/master/3727-maximum-alternating-sum-of-squares) |
+## Math
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/Shiba-rana/leetcode_sol/tree/master/0089-gray-code) |
+## Backtracking
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/Shiba-rana/leetcode_sol/tree/master/0089-gray-code) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/Shiba-rana/leetcode_sol/tree/master/0089-gray-code) |
 <!---LeetCode Topics End-->
