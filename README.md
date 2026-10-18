@@ -10,12 +10,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Shiba-rana/leetcode_sol/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/Shiba-rana/leetcode_sol/tree/master/0031-next-permutation) |
+| [0189-rotate-array](https://github.com/Shiba-rana/leetcode_sol/tree/master/0189-rotate-array) |
 ## Array
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/Shiba-rana/leetcode_sol/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Shiba-rana/leetcode_sol/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/Shiba-rana/leetcode_sol/tree/master/0036-valid-sudoku) |
+| [0189-rotate-array](https://github.com/Shiba-rana/leetcode_sol/tree/master/0189-rotate-array) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Shiba-rana/leetcode_sol/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Shiba-rana/leetcode_sol/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Hash Table
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/Shiba-rana/leetcode_sol/tree/master/0089-gray-code) |
+| [0189-rotate-array](https://github.com/Shiba-rana/leetcode_sol/tree/master/0189-rotate-array) |
 ## Backtracking
 |  |
 | ------- |
