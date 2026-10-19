@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Shiba-rana/leetcode_sol/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/Shiba-rana/leetcode_sol/tree/master/0036-valid-sudoku) |
 | [0189-rotate-array](https://github.com/Shiba-rana/leetcode_sol/tree/master/0189-rotate-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Shiba-rana/leetcode_sol/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Shiba-rana/leetcode_sol/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Shiba-rana/leetcode_sol/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Hash Table
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Shiba-rana/leetcode_sol/tree/master/0033-search-in-rotated-sorted-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Shiba-rana/leetcode_sol/tree/master/2089-find-target-indices-after-sorting-array) |
 ## String
 |  |
 | ------- |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Shiba-rana/leetcode_sol/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Shiba-rana/leetcode_sol/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Shiba-rana/leetcode_sol/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Math
