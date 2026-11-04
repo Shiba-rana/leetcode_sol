@@ -75,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/Shiba-rana/leetcode_sol/tree/master/0089-gray-code) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Shiba-rana/leetcode_sol/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
